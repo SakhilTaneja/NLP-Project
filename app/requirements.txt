@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+scikit-learn
+joblib
+pandas
+spacy
+pymupdf
+#llama-cpp-python has been installed directly in Dockerfile
